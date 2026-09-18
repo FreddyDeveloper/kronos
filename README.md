@@ -1,4 +1,4 @@
-# KRONOS v1.2
+# KRONOS Shutdown v1.2
 
 A shutdown timer built for people who want control over when their machine powers down — with style.
 
