@@ -1,0 +1,12 @@
+KRONOS v1.2
+Copyright (c) 2026 FreddyDeveloper. All rights reserved.
+
+This software is provided free of charge for personal use.
+The source code is proprietary and not included in this distribution.
+
+You may NOT:
+- Modify, reverse engineer, or decompile this software
+- Redistribute this software without written permission
+- Use this software for commercial purposes without a license
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
